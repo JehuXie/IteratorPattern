@@ -1,7 +1,9 @@
-import java.util.ArrayList;
-import java.util.List;
+package IteratorPattern;
 
-public class Main {
+import IteratorPattern.BookShelf;
+import IteratorPattern.Iterator;
+
+public class IteratorPattern {
 
     public static void main(String[] args) {
         BookShelf bookShelf = new BookShelf(4);

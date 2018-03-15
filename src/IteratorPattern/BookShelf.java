@@ -1,3 +1,7 @@
+package IteratorPattern;
+
+import IteratorPattern.Aggregate;
+
 import java.util.ArrayList;
 
 public class BookShelf implements Aggregate {

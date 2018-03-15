@@ -1,3 +1,7 @@
+package IteratorPattern;
+
+import IteratorPattern.BookShelf;
+
 public class BookShelfIterator implements Iterator {
     private BookShelf bookShelf;
     private int index;
